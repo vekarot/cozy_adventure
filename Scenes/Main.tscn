@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://155xx7s6y6ta"]
+
+[ext_resource type="Texture2D" uid="uid://db14ryh7t18co" path="res://Assets/Player/BunnyIdle-Sheet.png" id="1_r150o"]
+
+[node name="Main" type="Node2D" unique_id=1802018888]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1825479665]
+texture = ExtResource("1_r150o")
